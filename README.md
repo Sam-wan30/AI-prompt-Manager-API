@@ -404,7 +404,7 @@ Please use the issue tracker to report bugs or request features. Include:
 - **Author**: Your Name
 - **Version**: 1.0.0
 - **License**: MIT License
-- **Repository**: [GitHub Repository](https://github.com/yourusername/ai-prompt-manager-api)
+- **Repository**: [GitHub Repository](https://github.com/Sam-wan30/AI-prompt-Manager-API)
 
 ---
 
